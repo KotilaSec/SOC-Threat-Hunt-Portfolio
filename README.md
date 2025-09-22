@@ -4,7 +4,7 @@
 
 A personal collection of threat hunts, detections, and MITRE ATT&CK–mapped investigations, built while being an active member of the MyDFIR SOC Community.
 
-This repo doubles as a portfolio to showcase your growth as a SOC analyst — demonstrating how you hunt, investigate, and document findings.
+This repo doubles as a portfolio to showcase my growth as a SOC analyst — demonstrating how I hunt, investigate, and document findings.
 
 ---
 
