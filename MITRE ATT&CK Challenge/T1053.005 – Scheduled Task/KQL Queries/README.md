@@ -19,8 +19,3 @@ This folder contains KQL queries and related detection logic for each challenge.
 // Author: Paul
 // Tested in: Microsoft Sentinel (2025-07)
 // Notes: Tune ProcessCommandLine matching for environment specifics
-
-DeviceProcessEvents
-| where FileName == "schtasks.exe" and ProcessCommandLine has "/create"
-| project TimeGenerated, DeviceName, AccountName, ProcessCommandLine
-
